@@ -1,6 +1,6 @@
 # Object Finder Bot using Feature Matching and Detection Algorithms
 
-![Object Finder Bot](images/object_detection_bot.jpg)
+![Object Finder Bot](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/object_detection_bot.png)
 
 ## Introduction
 

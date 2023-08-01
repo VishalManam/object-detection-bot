@@ -50,10 +50,34 @@ Follow these steps to set up and run the Object Finder Bot on your local machine
 
 ## Example Input
 
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/ikigai.png)
-![alt text](https://raw.githubusercontent.com/VishalManam/django-blog-page/main/images/Screenshot%20(52).png)
+![Reference Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai.jpg)
+![Target Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai%20and%20other%20books.jpg)
 
 ## Example Output
 
-![Example 1](images/example1.png)
-![Example 2](images/example2.png)
+![Keypoints on Reference Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/image1_with_key_points.jpg)
+![Keypoints on Target Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/image2_with_key_points.jpg)
+![Matches between Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/matches.jpg)
+![Detected Object](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai_detected.jpg)
+
+## Algorithm Configuration
+
+The Object Finder Bot allows users to fine-tune the feature matching process by adjusting the following algorithm parameters:
+
+- Feature Detector (SIFT, ORB, etc.)
+- Matcher (Brute-Force, FLANN, etc.)
+- Filtering Thresholds
+- Homography Thresholds
+
+## Contributions
+
+Contributions to this project are welcome! If you have any suggestions or improvements, feel free to create a pull request. Please ensure to follow the project's code of conduct.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- The bot was inspired by the incredible work in computer vision and object recognition.
+- Thanks to the developers of OpenCV, NumPy, and Tkinter for providing powerful libraries for image processing and GUI development.

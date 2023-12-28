@@ -50,15 +50,20 @@ Follow these steps to set up and run the Object Finder Bot on your local machine
 
 ## Example Input
 
-![Reference Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai.jpg)
-![Target Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai%20and%20other%20books.jpg)
+![ikigai](https://github.com/VishalManam/object-detection-bot/assets/88299493/f2937028-fe67-435a-a3c3-68e2aa399bd7)
+
+![ikigai and other books](https://github.com/VishalManam/object-detection-bot/assets/88299493/cc5bac66-8168-4b89-93dd-5ac0ab4e1756)
 
 ## Example Output
 
-![Keypoints on Reference Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/image1_with_key_points.jpg)
-![Keypoints on Target Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/image2_with_key_points.jpg)
-![Matches between Image](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/matches.jpg)
-![Detected Object](https://raw.githubusercontent.com/VishalManam/object-detection-bot/main/images/ikigai_detected.jpg)
+![image1_with_key_points](https://github.com/VishalManam/object-detection-bot/assets/88299493/cf6bc0f8-5534-4338-a892-741c1c5c3923)
+
+![image2_with_key_points](https://github.com/VishalManam/object-detection-bot/assets/88299493/effb1eb5-9c7f-4edb-9972-d40832c1b4f1)
+
+![ikigai_matches](https://github.com/VishalManam/object-detection-bot/assets/88299493/9a5f3b77-b4b9-4374-98de-db062cc3c561)
+
+![ikigai_identified](https://github.com/VishalManam/object-detection-bot/assets/88299493/18dfa751-4f7c-4c7b-980f-5c9ada5e9f98)
+
 
 ## Algorithm Configuration
 
